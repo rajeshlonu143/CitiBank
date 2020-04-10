@@ -10,4 +10,9 @@ public int getId() {
 public void setId(int id) {
 	this.id = id;
 }
+public void m1() {
+	// TODO Auto-generated method stub
+	System.out.println("CityBankBo.m1()");
+
+}
 }
